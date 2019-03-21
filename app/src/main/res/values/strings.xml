@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">layout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="demo_text">demo Text</string>
+    <string name="_1_30_p_m">1:30 P.M.</string>
+    <string name="sekarang_jam">Sekarang jam</string>
+    <string name="_0">0</string>
+    <string name="deni_achmad">Deni achmad</string>
+</resources>
